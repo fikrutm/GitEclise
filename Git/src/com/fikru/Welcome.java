@@ -13,5 +13,6 @@ public class Welcome {
 	System.out.println("Test 1");
 	System.out.println("This is from remot");
 	System.out.println("Test 2");
+	System.out.println("Just to test commit");
 	}
 }

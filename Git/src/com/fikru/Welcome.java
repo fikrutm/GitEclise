@@ -11,5 +11,6 @@ public class Welcome {
 	public static void reception() {
 		System.out.println("Welcome how may I help you");
 	System.out.println("Test 1");
+	System.out.println("Onther change");
 	}
 }

@@ -12,5 +12,6 @@ public class Welcome {
 		System.out.println("Welcome how may I help you");
 	System.out.println("Test 1");
 	System.out.println("This is from remot");
+	System.out.println("Test 2");
 	}
 }

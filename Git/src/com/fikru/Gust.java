@@ -4,5 +4,6 @@ public class Gust {
 
 	public void arrived(){
 	System.out.println("We just arrived");
+	System.out.println("Second guest comingg next");
 	}
 }
